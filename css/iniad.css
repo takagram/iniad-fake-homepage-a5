@@ -1,6 +1,6 @@
 body {
   background-color: #794c13;
-  color: #FE4261;
+  color: #3b3b3b;
 }
 
 h1 {
@@ -11,13 +11,13 @@ h1 {
 h2 {
   font-size: 20px;
   color: #000000;
-  border-bottom: solid 1px #cc0000;
+  border-bottom: solid 1px #3b3b3b;
 }
 
 h3 {
   font-size: 18px;
   padding-left: 4px;
-  border-left: solid 4px #cc0000;
+  border-left: solid 4px #3b3b3b;
 }
 
 #schedule {
@@ -31,6 +31,6 @@ h3 {
 
 .time {
   font-weight: bold;
-  color: #cc0000;
+  color: #3b3b3b;
   font-size: 30px;
 }
