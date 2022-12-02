@@ -39,7 +39,7 @@ h3 {
 
 #contents {
   display: flex;
-  flex-direction: row;
+  jusrify-content: center;
 }
 
 #concept {
